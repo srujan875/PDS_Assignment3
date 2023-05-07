@@ -1,6 +1,6 @@
 Dataset link: https://app.box.com/s/vjbv27r081a2d8doy3o1ar27j3zfnjpc
 
-As a part of this Assignment, loaded the dataset contains tweets that have been pulled from Twitter. And performed the following anlaysis on the 'OriginalTweet' data. 
+As a part of this Assignment, loaded the dataset contains tweets that have been pulled from Twitter. And performed the following analysis on the 'OriginalTweet' data. 
 
 a) Converting  the entire text corpus into tokens.
 
